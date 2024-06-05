@@ -39,7 +39,7 @@ To set up this project locally, ensure you have the following installed:
   - scikit-learn
  
 ### Data
-In the first part of this project (scraping.ipynb), we gather match data from FBref using web scraping techniques. The data is saved into a file named matches.csv, which is then used for building and evaluating prediction models in the second part (predictions.ipynb).
+In the first part of this project (Premier League Scraper.ipynb), we gather match data from FBref using web scraping techniques. The data is saved into a file named matches.csv, which is then used for building and evaluating prediction models in the second part (Premier League Analysis.ipynb).
 
 ## Key Insights
 
